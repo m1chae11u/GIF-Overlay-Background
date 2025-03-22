@@ -50,6 +50,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # foreground: /Users/mikel/Documents/your_companies/CLUB_CHERUS/logo/liquid-metal-favicon-SOLID-1024x1024.gif
-    # background: /Users/mikel/Documents/Projects/GIF-Overlay-Background/images/161515_background.png
-    # output gif: /Users/mikel/Documents/Projects/GIF-Overlay-Background/images/liquid-metal-favicon-SOLID-1024x1024-161515_background.gif
