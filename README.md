@@ -14,12 +14,12 @@ This repository contains a Python script that overlays a square animated GIF wit
 After setting up the environment, you can run the script as follows:
 
 ```bash
-python gifcompositor.py input.gif background.png result.gif
+python gifcompositor.py foreground.gif background.png output.gif
 ```
 
 The script will center the animated GIF over the background image and preserve all animation timing from the original GIF.
 
 ### Parameters:
-- `foreground_gif`: Path to the input square GIF with transparency
-- `background_png`: Path to the rectangular solid color PNG background
-- `output_gif`: Path for the output composite GIF
+- `foreground.gif`: Path to the input square GIF with transparency
+- `background.png`: Path to the rectangular solid color PNG background
+- `output.gif`: Path for the output composite GIF
